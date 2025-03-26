@@ -12,12 +12,12 @@ Make sure you have Node.js and npm installed on your machine.
 ## Installing
 ### Clone the repository:
 ```sh
-git clone https://github.com/aisha-png/threejs-project.git
+git clone https://github.com/delafuentej/r3f-ai_3d-custom-tshirt-maker.git
 ```
 
 ### Navigate to the project directory:
 ```sh
-cd threejs-project
+cd 3D-custom-tshirt-maker
 ```
 
 ## Client Installation
@@ -43,7 +43,7 @@ npm install
 ## Running the Application
 ### Start the server:
 ```sh
-npm start
+nodeman start
 ```
 
 ### Start the client:
