@@ -17,7 +17,7 @@ git clone https://github.com/delafuentej/r3f-ai_3d-custom-tshirt-maker.git
 
 ### Navigate to the project directory:
 ```sh
-cd 3D-custom-tshirt-maker
+cd r3f-ai_3d-custom-tshirt-makers
 ```
 
 ## Client Installation
@@ -39,6 +39,7 @@ cd server
 ```sh
 npm install
 ```
+### Rename the ```.env.template``` file to ```.env```, and enter the environment variables PORT and OPENAI_API_KEY
 
 ## Running the Application
 ### Start the server:
