@@ -44,7 +44,7 @@ npm install
 ## Running the Application
 ### Start the server:
 ```sh
-nodeman start
+nodemon start
 ```
 
 ### Start the client:
