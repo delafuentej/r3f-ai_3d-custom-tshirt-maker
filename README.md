@@ -10,6 +10,14 @@ Design your own t-shirt, choose your favorite color, add photos and logos, and e
 
 <img src="client/src/assets/readme/tshirt1.webp" width="250"/><img src="client/src/assets/readme/tshirt2.webp" width="250"/><img src="client/src/assets/readme/tshirt3.webp" width="250"/><img src="client/src/assets/readme/tshirt4.webp" width="250"/><img src="client/src/assets/readme/tshirt5.webp" width="250"/><img src="client/src/assets/readme/tshirt6.webp" width="250"/>
 
+## 🖼️ Tech Stack
+
+🔹 Frontend:
+React, Three.js, React Three Fiber, Tailwind CSS 4, Valtio (state management), Framer Motion (animations), React Color (color picker), Drei & Maath (3D utilities).
+
+🔹 Backend:
+Node.js, Express, OpenAI API, dotenv, cors, nodemon.
+
 ## Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
