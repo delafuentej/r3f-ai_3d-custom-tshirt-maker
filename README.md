@@ -2,7 +2,7 @@
 
 Design your own t-shirt, choose your favorite color, add photos and logos, and even have it designed by artificial intelligence (OpenAI) based on your instructions through a prompt. Once you're happy with your creation, you can download your design in .png format and use it however you like!
 
-## 🎬 Live Demo
+## 🎬 Gif Demo
 
 ![App Demo](client/src/assets/readme/gif1.gif)
 
@@ -10,7 +10,7 @@ Design your own t-shirt, choose your favorite color, add photos and logos, and e
 
 <img src="client/src/assets/readme/tshirt1.webp" width="250"/><img src="client/src/assets/readme/tshirt2.webp" width="250"/><img src="client/src/assets/readme/tshirt3.webp" width="250"/><img src="client/src/assets/readme/tshirt4.webp" width="250"/><img src="client/src/assets/readme/tshirt5.webp" width="250"/><img src="client/src/assets/readme/tshirt6.webp" width="250"/>
 
-## 🖼️ Tech Stack
+## 🛠️Tech Stack
 
 🔹 Frontend:
 React, Three.js, React Three Fiber, Tailwind CSS 4, Valtio (state management), Framer Motion (animations), React Color (color picker), Drei & Maath (3D utilities).
