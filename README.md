@@ -8,7 +8,7 @@ Design your own t-shirt, choose your favorite color, add photos and logos, and e
 
 ## 🖼️ Sample Generated T-Shirts
 
-<img src="client/src/assets/readme/tshirt1.webp" width="250"/> <img src="client/src/assets/readme/tshirt2.webp" width="250"/><img src="client/src/assets/readme/tshirt3.webp" width="250"/><img src="client/src/assets/readme/tshirt4.webp" width="250"/>
+<img src="client/src/assets/readme/tshirt1.webp" width="250"/> <img src="client/src/assets/readme/tshirt2.webp" width="250"/><img src="client/src/assets/readme/tshirt3.webp" width="250"/><img src="client/src/assets/readme/tshirt4.webp" width="250"/><img src="client/src/assets/readme/tshirt5.webp" width="250"/><img src="client/src/assets/readme/tshirt6.webp" width="250"/>
 
 ## Prerequisites
 
